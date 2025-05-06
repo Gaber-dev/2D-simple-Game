@@ -1,7 +1,7 @@
 # Simple-Unity-2D-Game
 Simple Unity 2D Game
 
-<img src="Screenshots/foxxie.png">
+<img src="C:\Users\Administrator\Pictures\Screenshots\Screenshot 2025-05-06 195034.png">
 
 This is a basic game that is not yet completed.
 
